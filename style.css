@@ -1,0 +1,57 @@
+*{
+	font-family: Tahoma;
+	font-size : 16px
+	}
+
+	.cell_st{
+	font-weight: bold;
+	color: #d400ff;
+	text-align:right;
+	padding-right: 10px;
+	}
+	.cell_dr{
+	padding:5px;
+	border-left-style:solid;
+	border-left-width:thin;
+	}
+    
+    .center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+
+	#tab{
+	margin: 0 auto;
+	width: 1000px;
+	border-collapse:collapse;
+	}
+	
+    #tab1{
+        
+        width: 650px;
+        border-style: solid;
+        border-width: thin;
+        text-align: center;
+        border-collapse: collapse;
+    }   
+
+    .dreapta{
+        padding: 5px;
+        background-color: #bb33ff ;
+        color:black;
+    }
+
+	.cst{
+	padding-right: 10px;
+	text-align:right;
+	}
+
+    .cdr{
+        padding: 5px;
+        border-left-style:solid;
+	    border-left-width:thin;
+        border-bottom: 2px dashed #d400ff ;
+        
+    }
